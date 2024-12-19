@@ -8,6 +8,7 @@
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40">
   </a>
   <a href="https://flaticon.com/">
-    <img src="./icons/docker.png" alt="Docker" width="40" height="40">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40">
+
   </a>
 </p>
