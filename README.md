@@ -1,5 +1,6 @@
 ## Hi, i am python developer 👋
 
+My skills and languages:
 <p align="left">
   <a href="https://www.djangoproject.com/">
     <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="40" height="40">
@@ -12,7 +13,7 @@
   </a>
   <!-- Redis -->
   <a href="https://redis.io/">
-    <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40">
   </a>
   <!-- Nginx -->
   <a href="https://nginx.org/">
