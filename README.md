@@ -19,4 +19,7 @@ My skills and languages:
   <a href="https://nginx.org/">
     <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" width="40" height="40">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40">
+</a>
 </p>
